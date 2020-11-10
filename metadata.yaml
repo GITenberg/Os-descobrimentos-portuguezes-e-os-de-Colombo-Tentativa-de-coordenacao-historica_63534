@@ -1,0 +1,30 @@
+_repo: Os-descobrimentos-portuguezes-e-os-de-Colombo-Tentativa-de-coordenacao-historica_63534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chagas, Manuel Pinheiro
+    aliases:
+    - Chagas, M. Pinheiro
+    - Chagas, Pinheiro
+    - Pinheiro Chagas, Manuel Joaquim
+    birthdate: 1842
+    deathdate: 1895
+    gutenberg_agent_id: '33861'
+    url: http://www.gutenberg.org/2009/agents/33861
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Joaquim_Pinheiro_Chagas
+description: ''
+gutenberg_issued: '2020-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63534'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Columbus, Christopher'
+- !lcsh 'America -- Discovery and exploration -- Portuguese'
+- !lcc 'E011'
+- GITenberg
+title: 'Os descobrimentos portuguezes e os de Colombo: Tentativa de coordenação historica'
+url: http://www.gutenberg.org/ebooks/63534
